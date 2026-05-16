@@ -30,4 +30,5 @@ If y represents the dependent variable and x the independent variable, this rela
 # Result
 The correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
 
-
+# Github link
+https://github.com/Kaji360/Correlation_Regression
